@@ -1,0 +1,12 @@
+{
+  "name": "botall-python",
+  "version": "1.0.0",
+  "description": "Run botall.py on hosting",
+  "main": "botall.py",
+  "scripts": {
+    "start": "python botall.py"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
