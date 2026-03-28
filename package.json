@@ -4,7 +4,7 @@
   "description": "Run botall.py on hosting",
   "main": "botall.py",
   "scripts": {
-    "start": "python botall.py"
+    "start": "python3 botall.py"
   },
   "engines": {
     "node": ">=18.x"
